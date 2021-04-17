@@ -6,6 +6,10 @@
 		"name": "Bureau of Lands"
 	},
 	{
+		"name": "Ministry of Energy",
+		"code": "0231001"
+	},
+	{
 		"name": "Council for Arts & Culture"
 	}
 ]
