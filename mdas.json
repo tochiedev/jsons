@@ -1,100 +1,78 @@
 [
-  {
-    
-    "name": " Agency for Mass Education"
-  },
-  {
-   
-    "name": " Bureau of Lands"
-  },
-  {
-    
-    "name": " Council for Arts & Culture"  },
-  {
-   
-    "name": "Kwara State Judiciary"
-  },
-  {
-  
-    "name": "Ministry of Agriculture and Rural Development"
-  },
-  {
-   
-    "name": "Ministry of Enterprise"
-  },
-  {
-   
-    "name": " Ministry of Education and Human Capital Development"
-  },
-  {
-   
-    "name": " Ministry of Environment"
-  },
-  {
-   
-    "name": " Ministry of Health"
-  },
-  {
-   
-    "name": " Ministry of Works"
-  },
-  {
-    
-    "name": "Ministry of Communications"
-  },
-  {
-   
-    "name": " Ministry of Justice"
-  },
-  {
-   
-    "name": " Ministry of Tertiary Education Science and Technology"
-  },
-  {
-    
-    "name": " Ministry of Social Development"
-  },
-  {
-    
-    "name": " Sports Council"
-  },
-  {
-   
-    "name": " Ministry of Works"
-  },
-  {
-    
-    "name": " Rural Water Supply and Sanitation Agency"
-  },
-  {
-    
-    "name": "Town Planning and Development Agency"
-  },
-  {
-    
-    "name": " Water Corporation"
-  },
-  {
-   
-    "name": "Kwara State Environmental Protection Agency (KWEPA)"
-  },
-  {
-    
-    "name": "Ministry of Energy",
-    "code": "0231001"
-  },
-  {
-   
-    "name": "Rural Water Supply and Sanitation Agency (RUWASA)",
-    "code": " 0252012"
-  },
-  {
-    
-    "name": "Kwara State Broadcasting Corporation",
-    "code": "BC"
-  },
-  {
-    "name": "Office of The Surveyor General",
-    "code": "123456"
-  }
+	{
+		"name": "Agency for Mass Education"
+	},
+	{
+		"name": "Bureau of Lands"
+	},
+	{
+		"name": "Council for Arts & Culture"
+	},
+	{
+		"name": "Kwara State Judiciary"
+	},
+	{
+		"name": "Ministry of Agriculture and Rural Development"
+	},
+	{
+		"name": "Ministry of Enterprise"
+	},
+	{
+		"name": "Ministry of Education and Human Capital Development"
+	},
+	{
+		"name": "Ministry of Environment"
+	},
+	{
+		"name": "Ministry of Health"
+	},
+	{
+		"name": "Ministry of Works"
+	},
+	{
+		"name": "Ministry of Communications"
+	},
+	{
+		"name": "Ministry of Justice"
+	},
+	{
+		"name": "Ministry of Tertiary Education Science and Technology"
+	},
+	{
+		"name": "Ministry of Social Development"
+	},
+	{
+		"name": "Sports Council"
+	},
+	{
+		"name": "Ministry of Works"
+	},
+	{
+		"name": "Rural Water Supply and Sanitation Agency"
+	},
+	{
+		"name": "Town Planning and Development Agency"
+	},
+	{
+		"name": "Water Corporation"
+	},
+	{
+		"name": "Kwara State Environmental Protection Agency (KWEPA)"
+	},
+	{
+		"name": "Ministry of Energy",
+		"code": "0231001"
+	},
+	{
+		"name": "Rural Water Supply and Sanitation Agency (RUWASA)",
+		"code": "0252012"
+	},
+	{
+		"name": "Kwara State Broadcasting Corporation",
+		"code": "BC"
+	},
+	{
+		"name": "Office of The Surveyor General",
+		"code": "123456"
+	}
 ]
