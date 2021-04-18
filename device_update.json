@@ -2,6 +2,7 @@
 	{
 		"deviceId": "12312323",
 		"deviceToken": "123456",
-		"deviceIsBlocked": false
+		"deviceIsBlocked": false,
+		"nextSyncDate": "2020-08-27T19:06:27.345Z"
 	}
 ]
