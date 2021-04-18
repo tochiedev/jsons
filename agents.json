@@ -1,0 +1,28 @@
+[
+	{
+		"firstName": "Tochie",
+		"lastName": "Daniels",
+		"phone": "07089879434",
+		"email": "tochie@gmail.com",
+		"password": "123456",
+		"passwordExpiryDate": "2020-08-27T19:06:27.345Z",
+		"transactionPin": "123456",
+		"transactionPinExpiryDate": "2020-08-27T19:06:27.345Z",
+		"blocked": false,
+		"token": "asdjsj4875nfmdlsmdnmsfdsfsd",
+		"location": "Ikeja"
+	},
+	{
+		"firstName": "Tochie",
+		"lastName": "Daniels",
+		"phone": "07089879434",
+		"email": "tochie@gmail.com",
+		"password": "123456",
+		"passwordExpiryDate": "2020-08-27T19:06:27.345Z",
+		"transactionPin": "123456",
+		"transactionPinExpiryDate": "2020-08-27T19:06:27.345Z",
+		"blocked": false,
+		"token": "asdjsj4875nfmdlsmdnmsfdsfsd",
+		"location": "Ikeja"
+	}
+]
