@@ -1,7 +1,5 @@
-[
 	{
 		"vaultActivationApproved": true,
 		"vaultTopupApproved": true,
-		"vaultLimitApproved": 50000
+		"vaultLimitApproved": 0
 	}
-]
