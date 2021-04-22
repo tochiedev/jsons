@@ -1,7 +1,7 @@
 	{
-		"agentId": "12345,
+		
 		"vaultActivationApproved": true,
 		"vaultTopupApproved": true,
 		"vaultLimitApproved": 0,
-		"vaultBalance": 2500,
+		
 	}
