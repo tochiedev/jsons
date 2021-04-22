@@ -1,7 +1,7 @@
-	{
+{
 		
-		"vaultActivationApproved": true,
-		"vaultTopupApproved": true,
-		"vaultLimitApproved": 0,
+	"vaultActivationApproved": true,
+	"vaultTopupApproved": true,
+	"vaultLimitApproved": 0,
 		
-	}
+}
